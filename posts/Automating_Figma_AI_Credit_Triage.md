@@ -17,6 +17,7 @@ Reading Time: **2 minutes**
 </details>
 
 ---
+# _Case Study_
 
 ## The Problem
 
