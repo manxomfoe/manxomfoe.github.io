@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: "Case Study - From Shadow IT to Enterprise Pilot"
+---
 
 
 # From Shadow IT to Enterprise Pilot
