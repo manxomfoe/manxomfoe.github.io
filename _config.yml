@@ -1,6 +1,6 @@
 theme: jekyll-theme-minimal
 title: Portfolio of Brian Duchek
-description: Place to work on how to use github to host a simple portfolio
+description: Simple site for learning GitHub Pages to host a static bio and basic case studies.
 
 defaults:
   - scope:
