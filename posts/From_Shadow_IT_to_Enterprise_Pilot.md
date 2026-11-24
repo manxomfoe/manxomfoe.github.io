@@ -10,8 +10,10 @@ title: "Case Study - From Shadow IT to Enterprise Pilot"
 
 
 <details>
-  <summary> **Executive Summary** </summary>
-  
+  <summary>Executive Summary...</summary>
+
+# **Executive Summary**
+
  **Challenge**: Addressed widespread "shadow IT" use of emerging generative AI design tools across product teams, balancing high employee demand with strict enterprise security, data privacy, and compliance requirements.
 
 ### *Strategy & Execution*
