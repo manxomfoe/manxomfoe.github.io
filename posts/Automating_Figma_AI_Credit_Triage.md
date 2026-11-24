@@ -5,7 +5,7 @@ title: "Case Study: Automating Figma IA Credit Triage"
 
 # Automating Figma IA Credit Triage via Admin Email Workflows
 
-`Reading Time: **2 minutes**`
+Reading Time: **2 minutes**
 
 <details markdown="1">
   <summary>Overview</summary>
@@ -13,6 +13,8 @@ title: "Case Study: Automating Figma IA Credit Triage"
 > Docusign transformed how it handled Figma AI credit requests by replacing a sluggish, manual email process with an **intelligent triage system**. The case study outlines the original hurdles of unpredictable costs and constant back-and-forth communication, leading to the establishment of clear objectives focused on **speed, cost-efficiency, and automation**. To solve this, the author leveraged Gemini Studio alongside webhooks and Confluence to automate **email parsing, offer calendar-aware spending advice, and integrate smoothly into existing platforms like Jira and Slack**. Ultimately, this workflow successfully **balanced financial oversight with creative momentum**, ensuring credit approvals remained fast, traceable, and aligned with actual project needs.
 
 </details>
+
+---
 
 ## The Problem
 
