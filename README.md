@@ -17,6 +17,10 @@ Learning more [about] my work from the below case studies, or by viewing my [res
 
 #### Reach out anytime via [email], or by finding me on [LinkedIn].
 
+---
+
+
+#### Footnote Links
 
 [^1]: [Fermi Community Orchestra](https://www.fermicommunityorchestra.org/)
 [^2]: You can join us - [Be A Scout](https://beascout.scouting.org/units/8e9170f4-228b-47b3-9325-b909e054a63f)
