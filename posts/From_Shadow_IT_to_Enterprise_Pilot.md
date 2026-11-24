@@ -33,7 +33,7 @@ title: "Case Study - From Shadow IT to Enterprise Pilot"
 
 ## **Situation**
 
-#### *`What was breaking or missing at scale?`* 
+##### `What was breaking or missing at scale?`
 
 There was a period in the last couple years when every week a new model was released, or a new tool was announced that made AI more and more disruptive to the work of product design.
 
@@ -41,7 +41,7 @@ Armchair IT pundits were competing to see who could be the first to ask: “Can 
 
 ## **Context & Intent**
 
-#### *`Why was this hard? What was the friction and the risk in detail?`*
+##### `Why was this hard? What was the friction and the risk in detail?`
 
 Slack became an echo chamber of…
 
@@ -63,7 +63,7 @@ Enterprise IT was happy to let you pay for your own tokens to use the tools, but
 
 ## **Problem Framed**
 
-#### *`What did you critically need to address?`*
+##### `What did you critically need to address?`
 
 So the principal challenge was this:
 
@@ -75,7 +75,7 @@ People in that last scenario had it the hardest. The PM with the advanced, coded
 
 ## **Solution Segments**
 
-#### *`How did your hybrid background as a former Senior Software Engineer and DesignOps Lead inform the solution?`*
+##### `How did your hybrid background as a former Senior Software Engineer and DesignOps Lead inform the solution?`
 
 Here’s what we did to bring order and coordinated progress to the chaos:
 
@@ -124,7 +124,7 @@ At the conclusion of that work-stream, we had an executed pilot contract, alloca
 
 ## **Adoption & Governance**
 
-#### *`How did I bring designers, researchers, product teams and more along without being a gatekeeper?`*
+##### `How did I bring designers, researchers, product teams and more along without being a gatekeeper?`
 
 Meanwhile, on the end-user side…
 
@@ -156,7 +156,7 @@ Most interesting wasn’t the acceleration it brought to the existing process, b
 
 ## **Outcomes & Impacts**
 
-#### *`How did it turn out? What were specific quantitative & qualitative results of those efforts?`*
+##### `How did it turn out? What were specific quantitative & qualitative results of those efforts?`
 
 After multiple cohorts of users progressed through the pilot, there was significant evolution in the program. Here’s what was learned:
 
