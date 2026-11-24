@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Case Study - From Shadow IT to Enterprise Pilot"
+title: "Case Study: From Shadow IT to Enterprise Pilot"
 ---
 
 
@@ -10,22 +10,11 @@ title: "Case Study - From Shadow IT to Enterprise Pilot"
 
 
 <details>
-  <summary>Executive Summary...</summary>
+  <summary>Overview</summary>
 
-# **Executive Summary**
+This case study details the challenges of managing unauthorized artificial intelligence tools within a large organization while simultaneously trying to satisfy high employee demand for innovative design technology. To resolve this dilemma, the author explains how they implemented a structured pilot program that successfully balanced strict enterprise security and compliance standards with collaborative user adoption. By carefully organizing enthusiastic employees into facilitated cohorts and streamlining vendor evaluations, the organization was able to transform their product design workflows safely. Ultimately, this initiative proved so successful that it secured full executive support and contract renewal for a comprehensive, company-wide rollout.
 
- **Challenge**: Addressed widespread "shadow IT" use of emerging generative AI design tools across product teams, balancing high employee demand with strict enterprise security, data privacy, and compliance requirements.
-
-### *Strategy & Execution*
-
-* Streamlined communications by establishing dedicated channels and a centralized tracking system for new AI tools.  
-* Partnered with IT and security to navigate Third Party Risk Assessments (TPRAs) and successfully pilot a secure enterprise platform before contract execution.  
-* Designed a structured application and cohort-based onboarding process, running an 8-month pilot program that supported over 120 users with regular 1-on-1 support and surveys.
-
-### *Impact & Results*
-
-* Achieved strong engagement with over 120 enrollments, a \>70% helpfulness rating, and a \~12% contract extension rate.  
-* Enabled product teams to use plain-language prototyping earlier in the design lifecycle, transforming workflows and successfully securing executive support for a department-wide rollout.
+Reading Time: 7-8 minutes
 </details>
 
 
