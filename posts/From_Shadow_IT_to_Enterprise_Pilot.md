@@ -6,7 +6,7 @@ title: "Case Study: From Shadow IT to Enterprise Pilot"
 
 # From Shadow IT to Enterprise Pilot, Scaling AI Prototyping Safely
 
-`Reading Time: **7-8 minutes**`
+Reading Time: **7-8 minutes**
 
 <details markdown="1">
   <summary>Overview</summary>
