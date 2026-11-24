@@ -7,7 +7,7 @@ title: "Case Study: Automating Figma IA Credit Triage"
 
 ## via Admin Email Workflows
 
-'Reading Time: **2 minutes**`
+`Reading Time: **2 minutes**`
 
 <detail markdown="1">
   <summary>Overview</summary>
