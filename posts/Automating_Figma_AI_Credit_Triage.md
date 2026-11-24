@@ -28,14 +28,17 @@ Managing Figma AI token allocations at Docusign meant balancing active design an
 * **Actively manage costs:** Prompt requesters to wait when the monthly reset was only two days away instead of burning extra credits unnecessarily.
 * **Automate the mundane:** Offload repetitive, rote triage steps to an agent-like workflow while keeping human judgment on final allocation decisions.
 
-## Solution: Gemini Studio Triage & Webhook Enabled Workflows
+## Solution
+
+### _Gemini Studio Triage & Webhook Enabled Workflows_
 
 I used **Gemini Studio** to respond to system-generated emails arriving at Figma admins, turning a manual, inconsistent intake loop into a connected, agent-accelerated workflow:
-* **Automated email triage:** Parsed incoming admin system emails to identify token and credit requests and structure the missing context—what the credits were needed for, how much was requested, and which project, team, or pillar applied.
-* **Calendar-aware cost nudges:** Factored in proximity to the monthly reset—such as nudging users to wait when reset was two days away—to curb unnecessary mid-cycle spend while keeping urgent work moving.
-* **Webhooks into existing tools (Jira & Slack):** Connected Gemini Studio to Jira and Slack via webhooks so triage and follow-ups met requesters and admins where they already worked instead of trapping decisions in email threads.
-* **Lightweight traceability via forms and spreadsheets:** Used forms and spreadsheets to keep lightweight, auditable tracking of requests and agent activity without heavy overhead.
-* **Visible instructions in Confluence:** Maintained the detailed agent rules and operating instructions in Confluence, a shared, accessible space the team already used—keeping operational knowledge visible and searchable.
+
+- **Automated email triage:** Parsed incoming admin system emails to identify token and credit requests and structure the missing context—what the credits were needed for, how much was requested, and which project, team, or pillar applied.
+- **Calendar-aware cost nudges:** Factored in proximity to the monthly reset—such as nudging users to wait when reset was two days away—to curb unnecessary mid-cycle spend while keeping urgent work moving.
+- **Webhooks into existing tools (Jira & Slack):** Connected Gemini Studio to Jira and Slack via webhooks so triage and follow-ups met requesters and admins where they already worked instead of trapping decisions in email threads.
+- **Lightweight traceability via forms and spreadsheets:** Used forms and spreadsheets to keep lightweight, auditable tracking of requests and agent activity without heavy overhead.
+- **Visible instructions in Confluence:** Maintained the detailed agent rules and operating instructions in Confluence, a shared, accessible space the team already used—keeping operational knowledge visible and searchable.
 
 ## Operational Fit & Impact
 
