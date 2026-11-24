@@ -4,34 +4,33 @@ title: "Case Study: From Shadow IT to Enterprise Pilot"
 ---
 
 
-# From Shadow IT to Enterprise Pilot
-
-## *Scaling AI Prototyping Safely*
+# From Shadow IT to Enterprise Pilot, Scaling AI Prototyping Safely
 
 `Reading Time: **7-8 minutes**`
 
 <details markdown="1">
   <summary>Overview</summary>
+  
+<br>
 
 > This case study details the **challenges of managing unauthorized artificial intelligence tools** within a large organization while simultaneously trying to satisfy high employee demand for innovative design technology. To resolve this dilemma, the author explains how they **implemented a structured pilot program** that successfully balanced strict enterprise security and compliance standards with collaborative user adoption. By carefully organizing enthusiastic employees into facilitated cohorts and streamlining vendor evaluations, the organization was able to **transform their product design workflows** safely. Ultimately, this initiative proved so successful that it secured **full executive support** and contract renewal for a comprehensive, company-wide rollout.
-
-
 </details>
 
+---
 
-# **Case Study**
+# Case Study
 
-## **Situation**
+## Situation
 
-##### `What was breaking or missing at scale?`
+`What was breaking or missing at scale?`
 
 There was a period in the last couple years when every week a new model was released, or a new tool was announced that made AI more and more disruptive to the work of product design.
 
 Armchair IT pundits were competing to see who could be the first to ask: “Can we cancel Figma, now?” Designers were freaking out, because it threatened the platform we owned and where we documented our decisions.
 
-## **Context & Intent**
+## Context & Intent
 
-##### `Why was this hard? What was the friction and the risk in detail?`
+`Why was this hard? What was the friction and the risk in detail?`
 
 Slack became an echo chamber of…
 
@@ -51,9 +50,9 @@ The bigger problem was that the demand for these new tools was so great that peo
 
 Enterprise IT was happy to let you pay for your own tokens to use the tools, but you weren’t allowed to use any company data in the process. That means no real requirements, design systems, user study insights, technical integrations or code snippets were allowed. Using them was a literal security breach, because the free versions would allow the AI company to train on our data.
 
-## **Problem Framed**
+## The Problem
 
-##### `What did you critically need to address?`
+`What did you critically need to address?`
 
 So the principal challenge was this:
 
@@ -63,9 +62,9 @@ People in that last scenario had it the hardest. The PM with the advanced, coded
 
 ---
 
-## **Solution Segments**
+## Solution
 
-##### `How did your hybrid background as a former Senior Software Engineer and DesignOps Lead inform the solution?`
+`How did your hybrid background as a former Senior Software Engineer and DesignOps Lead inform the solution?`
 
 Here’s what we did to bring order and coordinated progress to the chaos:
 
@@ -73,22 +72,21 @@ Here’s what we did to bring order and coordinated progress to the chaos:
 2. Lower the noise with collaborative contributions  
 3. Create a pilot program with open participation
 
-### *Empowering adoption*
+### _Empowering adoption_
 
 It was clear that the org couldn’t wait to see which tool emerged as best, because they had all been changing so quickly. Instead, we looked for an existing survey of available AI design tools, to see if someone had the background to make an informed call on which we could leverage.
 
-Good engineers follow the DRY principle:   
-Don’t Repeat Yourself.  In practice, it means wasting less time.
+> Good engineers follow the DRY principle (Don’t Repeat Yourself) <br> In practice, it means wasting less time.
 
 That person was already on the team, and in a great position to provide perspective. Like me, they had a deeper engineering background, and were already working on product design for AI features in our own products. They had the expertise to tell us what kind of coded mess the tools were generating, and they used that knowledge to help us move quickly to pick a single vendor.
 
-### *Noisy contributors*
+### _Noisy contributors_
 
 The panic across the team was escalating weekly, but intentions were mainly benign. People would hear some news, then want to get others perspectives and to see if the internal tooling offering was being updated.
 
 Our approach was to corral the inputs from all over into a dedicated spot where they were a little less distracting to the whole team. By launching a few curated Slack channels: \#ai-design, \#ai-news, \#ai-champions, we clarified which were right for what types of posts and discussions.
 
-Here’s why I’ve been called a super-user collector more than once. 
+> Here’s why I’ve been called a _super-user collector_ more than once.
 
 When someone mentioned a new app, I’d log it into a shared table that anyone could find via search or our internal LLM \+ RAG system. Confluence worked really well for this. I’d use their name as the contributor, and capture why they thought it worthy of interest.
 
@@ -96,7 +94,7 @@ People could check on each tool for updates and to see votes of interest from ot
 
 The non-secret secret was to make my work visible to all, and to bring together people in a community of interest. Not everyone wanted to constantly monitor which jobs AI was threatening from day to day.
 
-### *Pilot program launch*
+### _Pilot program launch_
 
 Most companies know there’s hurdles taller than a SF-based HQ tower involved in purchasing software–which is why they always say “call for enterprise pricing.” Fortunately for us, the selected vendor was able to provision an enterprise team with our early adopters before we’d even signed a contract. It wasn’t volunteered, but available when asked. I call it a negotiated win when a provider trusts us to follow through on the purchase, and gives us credits on the platform.
 
@@ -108,13 +106,13 @@ The advantages:
 
 My efforts shifted to compliance and onboarding. The vendor setup process is long and involves \~40 people across 5-6 teams. The technical diagramming component of a Third Party Risk Assessment isn’t something I want to re-hash, but it’s a necessary step in maintaining a high-level security certification.
 
-Pro tip: don’t have designers author IT system boundary diagrams and STRIDE tables
+> **Pro tip:** don’t have designers author IT system boundary diagrams and STRIDE tables
 
 At the conclusion of that work-stream, we had an executed pilot contract, allocation in the budget, executive support for the plan, integration with SSO access systems, self-service provisioning and documentation for account setup and day-one usage.
 
-## **Adoption & Governance**
+## Adoption & Governance
 
-##### `How did I bring designers, researchers, product teams and more along without being a gatekeeper?`
+`How did I bring designers, researchers, product teams and more along without being a gatekeeper?`
 
 Meanwhile, on the end-user side…
 
@@ -144,19 +142,19 @@ Most interesting wasn’t the acceleration it brought to the existing process, b
 
 ---
 
-## **Outcomes & Impacts**
+## Outcomes & Impacts
 
-##### `How did it turn out? What were specific quantitative & qualitative results of those efforts?`
+`How did it turn out? What were specific quantitative & qualitative results of those efforts?`
 
 After multiple cohorts of users progressed through the pilot, there was significant evolution in the program. Here’s what was learned:
 
-- I expected designers & researchers to leverage interactive, coded prototypes for better user-testing results. A coded prototype feels far more like a real application than a mockup-based one, and you get much more relevant feedback.  And a few early prototypes were used precisely for that purpose.
+- **Improved user testing feedback:** I expected designers & researchers to leverage interactive, coded prototypes for better user-testing results. A coded prototype feels far more like a real application than a mockup-based one, and you get much more relevant feedback.  And a few early prototypes were used precisely for that purpose.
 
-- The biggest drawback was the natural desire to have the output render anything precisely matching our existing applications.  Most creative UI tools pride themselves on being pixel-perfect rendering platforms.   AI can create anything you like in native web code, but it lacks the attention to detail and focus of a product designer. It simply didn’t have the guardrails needed to build things matching existing style definitions, and it ate up significant resources trying to coax it into compliance.
+- **Design system drift:** The biggest drawback was the natural desire to have the output render anything precisely matching our existing applications.  Most creative UI tools pride themselves on being pixel-perfect rendering platforms.   AI can create anything you like in native web code, but it lacks the attention to detail and focus of a product designer. It simply didn’t have the guardrails needed to build things matching existing style definitions, and it ate up significant resources trying to coax it into compliance.
 
-- The bigger unlock was the ability to use plain language to direct the creation of any new UI concept.  The tools weren’t flawless in their ability to produce outputs that matched the intention, but with enough prompt revisions, it was getting close enough to drive a useful discussion.
+- **Better discussions:** The bigger unlock was the ability to use plain language to direct the creation of any new UI concept.  The tools weren’t flawless in their ability to produce outputs that matched the intention, but with enough prompt revisions, it was getting close enough to drive a useful discussion.
 
-- Having collaborative problem-solving discussions earlier were massively impactful to our existing process timing and rhythms.   The team was able to start their design process with a working prototype of a solution, instead of ending the process with one.  There’s pros and cons to that reality, but it’s hard to ignore that it dramatically changed the discussions and decision options that each project faced.
+- **Better discussions, earlier:** Having collaborative problem-solving discussions earlier were massively impactful to our existing process timing and rhythms.   The team was able to start their design process with a working prototype of a solution, instead of ending the process with one.  There’s pros and cons to that reality, but it’s hard to ignore that it dramatically changed the discussions and decision options that each project faced.
 
 Regardless of the different amounts of success with new features from the vendors, and code-based specifications for our design system, the value of enabling anyone across the org to produce an interactive demo of their solution was transformative.  
 
