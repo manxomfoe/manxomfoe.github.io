@@ -18,7 +18,7 @@ Reading Time: **7-8 minutes**
 
 ---
 
-# Case Study
+# _Case Study_
 
 ## Situation
 
