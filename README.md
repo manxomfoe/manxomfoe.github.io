@@ -6,7 +6,7 @@ This is my third act, to be fair. While my first act was in music, my second beg
 
 Beyond building systems for product development teams, you’ll find me performing in a local orchestra[^1], adventuring in the great outdoors[^2], and tinkering with new entrepreneurial ventures.
 
-Learning more [about] my work from the below case studies, or by viewing my [resume] today.
+Learn more [about] my work from the case studies helow, or by viewing my [resume].
 
 ### Case Studies
 
