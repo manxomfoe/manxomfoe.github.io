@@ -19,13 +19,13 @@ title: "Case Study - From Shadow IT to Enterprise Pilot"
 ### *Strategy & Execution*
 
 * Streamlined communications by establishing dedicated channels and a centralized tracking system for new AI tools.  
-  * Partnered with IT and security to navigate Third Party Risk Assessments (TPRAs) and successfully pilot a secure enterprise platform before contract execution.  
-  * Designed a structured application and cohort-based onboarding process, running an 8-month pilot program that supported over 120 users with regular 1-on-1 support and surveys.
+* Partnered with IT and security to navigate Third Party Risk Assessments (TPRAs) and successfully pilot a secure enterprise platform before contract execution.  
+* Designed a structured application and cohort-based onboarding process, running an 8-month pilot program that supported over 120 users with regular 1-on-1 support and surveys.
 
 ### *Impact & Results*
 
 * Achieved strong engagement with over 120 enrollments, a \>70% helpfulness rating, and a \~12% contract extension rate.  
-  * Enabled product teams to use plain-language prototyping earlier in the design lifecycle, transforming workflows and successfully securing executive support for a department-wide rollout.
+* Enabled product teams to use plain-language prototyping earlier in the design lifecycle, transforming workflows and successfully securing executive support for a department-wide rollout.
 </details>
 
 
