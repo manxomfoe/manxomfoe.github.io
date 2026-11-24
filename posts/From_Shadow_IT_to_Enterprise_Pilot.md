@@ -10,7 +10,7 @@ title: "Case Study: From Shadow IT to Enterprise Pilot"
 
 `Reading Time: **7-8 minutes**`
 
-<details>
+<details markdown="1">
   <summary>Overview</summary>
 
 > This case study details the **challenges of managing unauthorized artificial intelligence tools** within a large organization while simultaneously trying to satisfy high employee demand for innovative design technology. To resolve this dilemma, the author explains how they **implemented a structured pilot program** that successfully balanced strict enterprise security and compliance standards with collaborative user adoption. By carefully organizing enthusiastic employees into facilitated cohorts and streamlining vendor evaluations, the organization was able to **transform their product design workflows** safely. Ultimately, this initiative proved so successful that it secured **full executive support** and contract renewal for a comprehensive, company-wide rollout.
