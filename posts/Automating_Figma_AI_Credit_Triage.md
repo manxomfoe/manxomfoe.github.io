@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Case Study: Automating Figma IA Credit Triage"
+title: "Case Study: Automating Figma AI Credit Triage"
 ---
 
-# Automating Figma IA Credit Triage via Admin Email Workflows
+# Automating Figma AI Credit Triage via Admin Email Workflows
 
 Reading Time: **2 minutes**
 
